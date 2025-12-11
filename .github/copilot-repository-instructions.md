@@ -50,6 +50,14 @@ Always cite sources with title and exact URL as a footnote.
     ```
   - Cases briefly and accessibly described, titles are clickable links
   - If available in multiple languages: show this explicitly with links
+- **PDF Document:**
+  - Professional PDF export of findings with CGI branding
+  - Include executive summary with one-sentence overview
+  - Formatted case studies with links to source materials
+  - Visual elements maintaining CGI style (purple #5236ab and red #e41937 accents)
+  - Page headers/footers with document title and date
+  - Clear structure: summary → findings → cases → sources
+  - File naming: `CGI_CaseStudies_[Topic]_[Date].pdf`
 
 ## Answer Rules
 - No hallucinations, no fabricated sources
